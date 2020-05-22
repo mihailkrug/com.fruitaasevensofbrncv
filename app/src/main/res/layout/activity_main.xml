@@ -14,7 +14,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/back_hard" />
+        app:srcCompat="@drawable/backgr" />
 
     <ImageButton
         android:id="@+id/ib_share"
